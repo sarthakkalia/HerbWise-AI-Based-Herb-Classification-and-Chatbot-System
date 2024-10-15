@@ -101,11 +101,7 @@ The chatbot was tested using a custom dataset, with the following results:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the herb classification model:
+3. Run the HerbWise application:
    ```bash
-   python herb_classification.py
-   ```
-4. Start the chatbot system:
-   ```bash
-   python chatbot.py
+   python application.py
    ```
