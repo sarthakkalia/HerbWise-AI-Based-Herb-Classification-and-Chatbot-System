@@ -105,3 +105,7 @@ The chatbot was tested using a custom dataset, with the following results:
    ```bash
    python application.py
    ```
+## Author
+
+- **Sarthak Kalia**
+- **sarthakkalia45@gmail.com**
